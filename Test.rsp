@@ -1,0 +1,7 @@
+/target:library
+/r:Act.Framework.dll,Act.UI.dll,Act.UI.Core.dll,Act.Shared.Collections.dll,Microsoft.Office.Interop.Word.dll,Interop.IWshRuntimeLibrary.dll
+/out:Test.dll
+Test.vb
+actClassTest.vb
+dataModule.vb
+globalModule.vb
